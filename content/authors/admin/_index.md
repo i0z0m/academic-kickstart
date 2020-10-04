@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Fuck you.
+When I was a high school student, I was the former head of Mathematical Sciences Club.
