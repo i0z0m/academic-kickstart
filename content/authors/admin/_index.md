@@ -22,8 +22,8 @@ bio: a software developer
 
 
 interests:
-- Math
-- Low-level programming
+- 数学（CSの理論と純粋数学）
+- 低レイヤ（CSの実践と組み込み）
 
 #education:
 #  courses:
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-When I was a high school student, I was the former head of Mathematical Sciences Club.
+私は高校の同好会「数理科学研究会」の部員でした．数理の特集番組を上映するほか，普段は電子工作をしていました．その延長として今も，組み込みプログラマ・日曜数学者を目指しています．
