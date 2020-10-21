@@ -23,7 +23,7 @@ bio: a software developer
 
 interests:
 - 純粋数学
-- コンピュータ．サイエンス
+- コンピュータ・サイエンス
 - 組込みプログラミング
 
 #education:
