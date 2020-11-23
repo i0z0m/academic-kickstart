@@ -4,7 +4,7 @@ title: i0z0m
 
 # Username (this should match the folder name)
 authors:
-- i0z0m
+- admin
 
 # Is this the primary user of the site?
 superuser: true
