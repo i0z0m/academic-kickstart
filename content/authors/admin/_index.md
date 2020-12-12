@@ -24,7 +24,7 @@ bio: a software developer
 interests:
 - 純粋数学
 - コンピュータ・サイエンス
-- 組込みプログラミング
+- 情報セキュリティ
 
 #education:
 #  courses:
