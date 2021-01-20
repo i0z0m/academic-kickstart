@@ -74,9 +74,5 @@ email: ""
 highlight_name: false
 ---
 
-<<<<<<< HEAD
 私は高校で同好会「数理科学研究会」の部員でした．普段は電子工作し，ときどき数理の特集番組を鑑賞しました．大学で情報系学科を専攻し，プログラミングと情報セキュリティを独学していました．今は組込みプログラマを目指しています．
-||||||| b145811
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
