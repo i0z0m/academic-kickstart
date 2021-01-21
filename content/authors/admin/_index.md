@@ -75,4 +75,3 @@ highlight_name: false
 ---
 
 私は高校で同好会「数理科学研究会」の部員でした．普段は電子工作し，ときどき数理の特集番組を鑑賞しました．大学で情報系学科を専攻し，プログラミングと情報セキュリティを独学していました．今は組込みプログラマを目指しています．
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
