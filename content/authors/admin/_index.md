@@ -18,7 +18,7 @@ superuser: true
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: エンジニアになれなかった人
+bio: パソコンの大先生
 
 
 # Interests to show in About widget
