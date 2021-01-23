@@ -23,9 +23,9 @@ bio: パソコンの大先生
 
 # Interests to show in About widget
 interests:
-- 純粋数学
-- コンピュータ・サイエンス
-- 情報セキュリティ
+- 数学
+- CS
+- セキュリティ
 
 #education:
 #  courses:
