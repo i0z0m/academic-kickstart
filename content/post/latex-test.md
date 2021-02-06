@@ -1,7 +1,7 @@
 +++
-title = "Enable LaTeX math rendering?"
+title = "Enable LaTeX math rendering"
 author = ["i0z0m"]
-date = 2017-07-13T17:31:56-04:00
+date = 2021-02-06T17:31:56-04:00
 draft = false
 markup = "pandoc"
 +++
