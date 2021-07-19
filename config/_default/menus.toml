@@ -30,7 +30,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "media/resume.pdf"
-#    weight = 70
+[[main]]
+   name = "Resume"
+   url = "https://drive.google.com/file/d/1aMlPlKIXuf0MWMmBcDs4GR_HSmt-tp2M/view?usp=sharing"
+   weight = 70
